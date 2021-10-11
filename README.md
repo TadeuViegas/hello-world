@@ -1,4 +1,4 @@
 # hello-world
 Repositório teste pra aprender github
 
-Ola, sou mr.drkgod - aluno de SI 
+Ola, sou Tadeu - aluno de SI 
